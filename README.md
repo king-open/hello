@@ -31,7 +31,24 @@
 
 ![pu.png](https://i.loli.net/2020/08/10/SIfwEvYNFVz9UkA.png)
 
-然后 刷新
+然后 刷新一下
+
+![好了.png](https://i.loli.net/2020/08/10/5WXxTkN6LtMnAYe.png)
+
+---
+
+### 基本的命令
+
+1. mkdir demo (新建一个demo的文件名)
+2. cd demo (进入demo文件里)
+3. touch xxx.py(创建xxx.py)
+
+#### 删除命令
+
+> 必须要在根目录删，通俗的说在这个文件外面删
+
+rm -r demo (这个文件已删除)
+
 
     
 
