@@ -22,8 +22,16 @@
     ![4.png](https://i.loli.net/2020/08/10/2VzjvZcpRKwomPl.png)
    
 > // 下面# 不要管它，写完保存并关掉就可以了
+> 本地仓库提交完毕
+---
 
+提交远程仓库之前先创建一个 [github账号](https://github.com/)
 
+然后，git push 提交远程仓库：
+
+![pu.png](https://i.loli.net/2020/08/10/SIfwEvYNFVz9UkA.png)
+
+然后 刷新
 
     
 
